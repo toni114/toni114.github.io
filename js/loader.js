@@ -51,7 +51,7 @@ document.getElementById("pigu").innerHTML =`<footer style="padding:70px 0px ">
                     <li><a href="https://www.linkedin.com/in/%E5%AE%81-%E5%94%90-b24607117/" target="_blank" class="fa fa-linkedin"></a></li>
                     <li><a href="https://www.facebook.com/profile.php?id=100010861092152" target="_blank" class="fa fa-facebook"> </a> </li>
                    
-                    <li><a href="http://ningning2333.lofter.com/" target="_blank" class="fa fa-coffee"> </a></li>
+                    //<li><a href="http://ningning2333.lofter.com/" target="_blank" class="fa fa-coffee"> </a></li>
                </ul>
            
               
